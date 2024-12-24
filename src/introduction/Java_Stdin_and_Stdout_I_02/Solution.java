@@ -1,8 +1,8 @@
-package introduction;
+package introduction.Java_Stdin_and_Stdout_I_02;
 
 import java.util.Scanner;
 
-public class Java_Stdin_and_Stdout_I_02 {
+public class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
