@@ -89,14 +89,14 @@ public class Solution {
                     printLong();
                 }
             } catch (Exception e) {
-                System.out.println(String.format(STRING_FORMAT_CAN_NOT_BE_FITTED, scanner.next()));
+                System.out.printf((STRING_FORMAT_CAN_NOT_BE_FITTED) + "%n", scanner.next());
             }
         }
         scanner.close();
     }
 
     public static void printCanBeFittedIn(long number) {
-        System.out.println(String.format(STRING_FORMAT_CAN_BE_FILTERED, number));
+        System.out.printf((STRING_FORMAT_CAN_BE_FILTERED) + "%n", number);
     }
 
     public static boolean numberBetween(long number, long min_value, long max_value){
