@@ -37,14 +37,12 @@ Sample output 2
 java.lang.Exception: Breadth and height must be positive
 */
 public class Solution {
-    private static int breadth = 0;
-    private static int height = 0;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        breadth = scanner.nextInt();
-        height = scanner.nextInt();
+        int breadth = scanner.nextInt();
+        int height = scanner.nextInt();
 
         if(numberArepositve(breadth, height)) {
             System.out.println(calculateAreaPrallelogram(breadth, height));
