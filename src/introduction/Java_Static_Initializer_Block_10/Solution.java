@@ -38,20 +38,27 @@ java.lang.Exception: Breadth and height must be positive
 */
 public class Solution {
 
-    public static void main(String[] args) {
+    private static int breadth;
+    private static int height;
+
+    static {
         Scanner scanner = new Scanner(System.in);
+        try {
+            int breadth = scanner.nextInt();
+            int height = scanner.nextInt();
+            scanner.close();
+            if(numberArepositve(breadth, height)) {
+                System.out.println(calculateAreaPrallelogram(breadth, height));
+            } else {
+                throw new Exception("Breadth and height must be positive");
 
-        int breadth = scanner.nextInt();
-        int height = scanner.nextInt();
-
-        if(numberArepositve(breadth, height)) {
-            System.out.println(calculateAreaPrallelogram(breadth, height));
-        } else {
-            System.out.print("java.lang.Exception: Breadth and height must be positive");
+            }
+        } catch (Exception e) {
+            System.out.println(e);
         }
-        scanner.close();
-
     }
+
+    public static void main(String[] args) { }
 
     private static boolean numberArepositve(int number1, int number2) {
         return number1 >0 && number2 > 0;
