@@ -13,3 +13,7 @@ Learn programming skills
 6.  Java Loops I [HackerRank](https://www.hackerrank.com/challenges/java-loops-i) - Solution
 7.  Java Loops II [HackerRank](https://www.hackerrank.com/challenges/java-loops) - Solution
 8.  Java Datatypes [HackerRank](https://www.hackerrank.com/challenges/java-datatype) - Solution 
+9.  Java End-of-file [HackerRank](https://www.hackerrank.com/challenges/java-end-of-file) - Solution
+10. Java Static Initializer Block[HackerRank](https://www.hackerrank.com/challenges/java-static-initializer-block) - Solution
+11. Java Int to String [HackerRank](https://www.hackerrank.com/challenges/java-int-to-string) - Solution
+12. Java Date and Time [HackerRank](https://www.hackerrank.com/challenges/java-date-and-time) - Solution
