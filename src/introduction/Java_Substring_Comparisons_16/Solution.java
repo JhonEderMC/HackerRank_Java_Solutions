@@ -50,14 +50,11 @@ The stub code in the editor then prints ava as our first line of output and wel 
 */
 
     public static String getSmallestAndLargest(String s, int k) {
-        String smallest = "";
-        String largest = "";
-
         // Complete the function
         // 'smallest' must be the lexicographically smallest substring of length 'k'
         // 'largest' must be the lexicographically largest substring of length 'k'
-        largest = s.substring(0,k);
-        smallest = s.substring(0, k);
+        String largest = s.substring(0,k);
+        String smallest = s.substring(0, k);
 
         for(int i=1; i<=s.length()-k; i++){
             String tempString = s.substring(i,i+k);
