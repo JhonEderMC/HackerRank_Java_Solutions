@@ -17,3 +17,7 @@ Learn programming skills
 10. Java Static Initializer Block[HackerRank](https://www.hackerrank.com/challenges/java-static-initializer-block) - Solution
 11. Java Int to String [HackerRank](https://www.hackerrank.com/challenges/java-int-to-string) - Solution
 12. Java Date and Time [HackerRank](https://www.hackerrank.com/challenges/java-date-and-time) - Solution
+13. Java Currency Formatter [HackerRank](https://www.hackerrank.com/challenges/java-currency-formatter) - Solution
+14. Java Strings Introduction [HackerRank](https://www.hackerrank.com/challenges/java-strings-introduction) - Solution
+15. Java Substring [HackerRank](https://www.hackerrank.com/challenges/java-substring) - Solution
+16. Java Substring Comparisons [HackerRank](https://www.hackerrank.com/challenges/java-string-compare) - Solution
