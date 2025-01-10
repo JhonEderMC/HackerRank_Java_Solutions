@@ -108,7 +108,7 @@ public class Solution {
         String string = scanner.nextLine();
 
         List<String> list = List.of(string.split("[^a-zA-Z]"));
-        list = list.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
+        list = list.stream().filter(s -> !s.isEmpty()).toList();
         System.out.println(list.size());
         list.forEach(System.out::println);
     }
