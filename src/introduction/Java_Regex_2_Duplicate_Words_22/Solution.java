@@ -5,7 +5,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Solution {
-    private static final String regex = "(?i)\\b(\\w+)\\b(?:\\s+\\1\\b)+";
 
     public static void main(String[] args) {
 
