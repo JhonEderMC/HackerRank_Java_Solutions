@@ -21,3 +21,9 @@ Learn programming skills
 14. Java Strings Introduction [HackerRank](https://www.hackerrank.com/challenges/java-strings-introduction) - Solution
 15. Java Substring [HackerRank](https://www.hackerrank.com/challenges/java-substring) - Solution
 16. Java Substring Comparisons [HackerRank](https://www.hackerrank.com/challenges/java-string-compare) - Solution
+17. Java String Reverse [HackerRannk](https://www.hackerrank.com/challenges/java-string-reverse/problem) - Solution
+18. Java Anagrams [HackerRank](https://www.hackerrank.com/challenges/java-anagrams) - Solution
+19. Java String Tokens [HackerRank](https://www.hackerrank.com/challenges/java-string-tokens) - Solution
+20. Pattern Syntax Checker [HackerRank](https://www.hackerrank.com/challenges/pattern-syntax-checker) - Solution
+21. Java Regex [HackerRank](https://www.hackerrank.com/challenges/java-regex) - Solution
+
