@@ -5,7 +5,7 @@ Learn programming skills
 
 # Introduction
 
-1.  Welcome to Java - [HackerRank](https://www.hackerrank.com/challenges/welcome-to-java/) - Solution
+1.  Welcome to Java - [HackerRank](https://www.hackerrank.com/challenges/welcome-to-java/) - [Solution](src/introduction/Welcome_to_Java_01/Solution.java) 
 2.  Java Stdin and Stdout I - [HackerRank](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/) - Solution
 3.  Java if-else [HackerRank](https://www.hackerrank.com/challenges/java-if-else) - Solution
 4.  Java Stdin and Stdout II [HackerRank](https://www.hackerrank.com/challenges/java-stdin-stdout) - Solution
