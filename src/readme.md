@@ -26,4 +26,8 @@ Learn programming skills
 19. Java String Tokens [HackerRank](https://www.hackerrank.com/challenges/java-string-tokens) - Solution
 20. Pattern Syntax Checker [HackerRank](https://www.hackerrank.com/challenges/pattern-syntax-checker) - Solution
 21. Java Regex [HackerRank](https://www.hackerrank.com/challenges/java-regex) - Solution
+22. Java Regex 2 - Duplicate Words [HackerRank](https://www.hackerrank.com/challenges/duplicate-word) - Solution
+23. Valid Username Regular Expression [HackerRank](https://www.hackerrank.com/challenges/valid-username-checker) - Solution
+24. Tag Content Extractor [HackerRank](https://www.hackerrank.com/challenges/tag-content-extractor) - Solution
+25. Java BigDecimal [HackerRank](https://www.hackerrank.com/challenges/java-bigdecimal) - Solution
 
