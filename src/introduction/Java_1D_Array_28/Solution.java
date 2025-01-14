@@ -15,6 +15,4 @@ public class Solution {
 
         list.forEach(System.out::println);
     }
-
-
 }
