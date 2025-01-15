@@ -23,3 +23,8 @@
 **23.** Valid Username Regular Expression [HackerRank](https://www.hackerrank.com/challenges/valid-username-checker) - [Solution](src/introduction/Valid_Username_Regular_Expression_23/Solution.java)  
 **24.** Tag Content Extractor [HackerRank](https://www.hackerrank.com/challenges/tag-content-extractor) - [Solution](src/introduction/Tag_Content_Extractor_24/Solution.java)  
 **25.** Java BigDecimal [HackerRank](https://www.hackerrank.com/challenges/java-bigdecimal) - [Solution](src/introduction/Java_BigDecimal_25/Solution.java)
+**26.**  Java Primality Test [HackerRank](https://www.hackerrank.com/challenges/java-primality-test) - [Solution](src/introduction/Java_Primality_Test_26/Solution.java)
+**27.** Java BigInteger [HackerRank](https://www.hackerrank.com/challenges/java-biginteger) - [Solution](src/introduction/Java_BigInteger_27/Solution.java)
+**28.** Java 1D Array [HackerRank](https://www.hackerrank.com/challenges/java-1d-array-introduction) - [Solution](src/introduction/Java_1D_Array_28/Solution.java)
+**29.** Java List [HackerRank](https://www.hackerrank.com/challenges/java-list/problem) - [Solution](src/introduction/Java_List_29/Solution.java)
+**30.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/introduction/Java_Method_Overriding_2_Super_Keyword_30/Solution.java)
