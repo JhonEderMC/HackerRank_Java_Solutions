@@ -53,7 +53,7 @@ public class Solution {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numberOfArrays = getInputNumber(scanner);
-        int numberOfQuerys = 0;
+        int numberOfQuerys;
         List<List<Integer>> arraysOfNumbers = new ArrayList<>();
         List<List<Integer>> arrayOfQuery = new ArrayList<>();// x , y in every query
 
