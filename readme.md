@@ -32,18 +32,16 @@ Learn programming skills
 **11.** Tag Content Extractor [HackerRank](https://www.hackerrank.com/challenges/tag-content-extractor) - [Solution](src/Strings/Tag_Content_Extractor_11/Solution.java)
 
 # Big Number
-**1.** Java BigDecimal [HackerRank](https://www.hackerrank.com/challenges/java-bigdecimal) - [Solution](src/BigNumber/Java_BigDecimal_01/Solution.java)
-**2.** Java Primality Test [HackerRank](https://www.hackerrank.com/challenges/java-primality-test) - [Solution](src/BigNumber/Java_Primality_Test_02/Solution.java)
+**1.** Java BigDecimal [HackerRank](https://www.hackerrank.com/challenges/java-bigdecimal) - [Solution](src/BigNumber/Java_BigDecimal_01/Solution.java)  
+**2.** Java Primality Test [HackerRank](https://www.hackerrank.com/challenges/java-primality-test) - [Solution](src/BigNumber/Java_Primality_Test_02/Solution.java)  
 **3.** Java BigInteger [HackerRank](https://www.hackerrank.com/challenges/java-biginteger) - [Solution](src/BigNumber/Java_BigInteger_03/Solution.java)
 
-
 # Data Structures
-**1.** Java 1D Array [HackerRank](https://www.hackerrank.com/challenges/java-1d-array-introduction) - [Solution](src/Data_Structures/Java_1D_Array_01/Solution.java)
-**2.** Java Subarray [HackerRank](https://www.hackerrank.com/challenges/java-negative-subarray) - [Solution](src/Data_Structures/Java_Subarray_02/Solution.java)
-**3.** Java Arraylist [HackerRank](https://www.hackerrank.com/challenges/java-arraylist) - [Solution](src/Data_Structures/Java_Arraylist_03/Solution.java)
-**4.** Java 1D Array (Part 2) [HackerRank](https://www.hackerrank.com/challenges/java-1d-array) - [Solution](src/Data_Structures/Java_1D_Array_Part_2_04/Solution.java)
+**1.** Java 1D Array [HackerRank](https://www.hackerrank.com/challenges/java-1d-array-introduction) - [Solution](src/Data_Structures/Java_1D_Array_01/Solution.java)  
+**2.** Java Subarray [HackerRank](https://www.hackerrank.com/challenges/java-negative-subarray) - [Solution](src/Data_Structures/Java_Subarray_02/Solution.java)  
+**3.** Java Arraylist [HackerRank](https://www.hackerrank.com/challenges/java-arraylist) - [Solution](src/Data_Structures/Java_Arraylist_03/Solution.java)  
+**4.** Java 1D Array (Part 2) [HackerRank](https://www.hackerrank.com/challenges/java-1d-array) - [Solution](src/Data_Structures/Java_1D_Array_Part_2_04/Solution.java)  
 **5.** Java List [HackerRank](https://www.hackerrank.com/challenges/java-list) - [Solution](src/Data_Structures/Java_List_05/Solution.java)
 
 # Object Oriented Programming
-
 **1.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_2_Super_Keyword_01/Solution.java)
