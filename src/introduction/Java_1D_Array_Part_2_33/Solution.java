@@ -1,6 +1,5 @@
 package introduction.Java_1D_Array_Part_2_33;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Stream;
@@ -15,7 +14,6 @@ public class Solution {
 
         while (numberOfQuerys-- > 0) {
             List<Integer> list = getInputListNumbers(scanner);
-            int n = list.get(0);
             int leap = list.get(1);
 
             List<Integer> game = getInputListNumbers(scanner);
