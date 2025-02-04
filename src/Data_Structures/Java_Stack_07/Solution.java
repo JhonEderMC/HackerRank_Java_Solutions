@@ -18,7 +18,7 @@ public class Solution {
         while(scanner.hasNext()){
             Stack<Character> stack = new Stack<>();
             String input = scanner.nextLine();
-            System.out.println(isValid(input, stack));;
+            System.out.println(isValid(input, stack));
         }
         scanner.close();
     }
