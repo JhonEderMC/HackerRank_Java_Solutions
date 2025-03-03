@@ -1,4 +1,4 @@
-package Data_Structures.Java_Comparator_11;
+package Data_Structures.Java_Comparator_10;
 
 import java.util.ArrayList;
 import java.util.Comparator;
