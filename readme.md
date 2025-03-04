@@ -42,6 +42,11 @@ Learn programming skills
 **3.** Java Arraylist [HackerRank](https://www.hackerrank.com/challenges/java-arraylist) - [Solution](src/Data_Structures/Java_Arraylist_03/Solution.java)  
 **4.** Java 1D Array (Part 2) [HackerRank](https://www.hackerrank.com/challenges/java-1d-array) - [Solution](src/Data_Structures/Java_1D_Array_Part_2_04/Solution.java)  
 **5.** Java List [HackerRank](https://www.hackerrank.com/challenges/java-list) - [Solution](src/Data_Structures/Java_List_05/Solution.java)
+**6.** Java Map [HackerRank](https://www.hackerrank.com/challenges/phone-book) - [Solution](src/Data_Structures/Java_Map_06/Solution.java)  
+**7.** Java Stack [HackerRank](https://www.hackerrank.com/challenges/java-stack/problem?isFullScreen=true) - [Solution](src/Data_Structures/Java_Stack_07/Solution.java)  
+**8.** Java Hashset [HackerRank](https://www.hackerrank.com/challenges/java-hashset) - [Solution](src/Data_Structures/Java_Hashset_08/Solution.java)  
+**9.** Java Generics [HackerRank](https://www.hackerrank.com/challenges/java-generics) - [Solution](src/Data_Structures/Java_Generics_10/Solution.java)  
+**10.** Java Comparator [HackerRank](https://www.hackerrank.com/challenges/java-comparator) - [Solution](src/Data_Structures/Java_Comparator_10/Solution.java)
 
 # Object Oriented Programming
 **1.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_2_Super_Keyword_01/Solution.java)
