@@ -1,27 +1,38 @@
 package Object_Oriented_Programming.Java_Method_Overriding_2_Super_Keyword_01;
 
-class BiCycle{
-    String define_me(){
-        return "a vehicle with pedals.";
+
+class Sports{
+
+    String getName(){
+        return "Generic Sports";
+    }
+
+    void getNumberOfTeamMembers(){
+        System.out.println( "Each team has n players in " + getName() );
     }
 }
 
-class MotorCycle extends BiCycle{
-    String define_me(){
-        return "a cycle with an engine.";
+class Soccer extends Sports{
+    @Override
+    String getName(){
+        return "Soccer Class";
     }
 
-    MotorCycle(){
-        System.out.println("Hello I am a motorcycle, I am "+ define_me());
-
-        String temp=super.define_me(); //Fix this line
-
-        System.out.println("My ancestor is a cycle who is "+ temp );
+    @Override
+    void getNumberOfTeamMembers() {
+        System.out.println("Each team has 11 players in " + getName());
     }
 
 }
-class Solution{
+
+public class Solution{
+
     public static void main(String []args){
-        MotorCycle M=new MotorCycle();
+        Sports c1 = new Sports();
+        Soccer c2 = new Soccer();
+        System.out.println(c1.getName());
+        c1.getNumberOfTeamMembers();
+        System.out.println(c2.getName());
+        c2.getNumberOfTeamMembers();
     }
 }
