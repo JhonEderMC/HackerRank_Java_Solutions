@@ -1,4 +1,4 @@
-package Object_Oriented_Programming.Java_Method_Overriding_2_Super_Keyword_01;
+package Object_Oriented_Programming.Java_Method_Overriding_01;
 
 
 class Sports{
