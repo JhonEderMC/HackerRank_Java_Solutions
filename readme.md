@@ -46,7 +46,11 @@ Learn programming skills
 **7.** Java Stack [HackerRank](https://www.hackerrank.com/challenges/java-stack/problem?isFullScreen=true) - [Solution](src/Data_Structures/Java_Stack_07/Solution.java)  
 **8.** Java Hashset [HackerRank](https://www.hackerrank.com/challenges/java-hashset) - [Solution](src/Data_Structures/Java_Hashset_08/Solution.java)  
 **9.** Java Generics [HackerRank](https://www.hackerrank.com/challenges/java-generics) - [Solution](src/Data_Structures/Java_Generics_10/Solution.java)  
-**10.** Java Comparator [HackerRank](https://www.hackerrank.com/challenges/java-comparator) - [Solution](src/Data_Structures/Java_Comparator_10/Solution.java)
+**10.** Java Comparator [HackerRank](https://www.hackerrank.com/challenges/java-comparator) - [Solution](src/Data_Structures/Java_Comparator_10/Solution.java)  
+**11.** Java Sort [HackerRank](https://www.hackerrank.com/challenges/java-sort) - [Solution](src/Data_Structures/Java_Sort_11/Solution.java)  
+**12.** Java Dequeue [HackerRank](https://www.hackerrank.com/challenges/java-dequeue) - [Solution](src/Data_Structures/Java_Dequeue_12/Solution.java)  
+**13.** Java BitSet [HackerRank](https://www.hackerrank.com/challenges/java-bitset/) - [Solution](src/Data_Structures/Java_BitSet_13/Solution.java)   
+**14.** Java Priority Queue [HackerRank](https://www.hackerrank.com/challenges/java-priority-queue/) - [Solution](src/Data_Structures/Java_Priority_Queue_14/Solution.java)
 
 # Object Oriented Programming
-**1.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_2_Super_Keyword_01/Solution.java)
+**1.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_01/Solution.java)
