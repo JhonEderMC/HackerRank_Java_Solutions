@@ -53,4 +53,11 @@ Learn programming skills
 **14.** Java Priority Queue [HackerRank](https://www.hackerrank.com/challenges/java-priority-queue/) - [Solution](src/Data_Structures/Java_Priority_Queue_14/Solution.java)
 
 # Object Oriented Programming
-**1.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_01/Solution.java)
+**1.** Java Method Overriding  [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_01/Solution.java)  
+**2.** Java Method Overriding 2 (Super Keyword) [HackerRank](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) - [Solution](src/Object_Oriented_Programming/Java_Method_Overriding_2_Super_Keyword_02/Solution.java)  
+**3.** Java Inheritance I [HackerRank](https://www.hackerrank.com/challenges/java-inheritance-1) - [Solution](src/Object_Oriented_Programming/Java_Inheritance_I_03/Solution.java)  
+**4.** Java Inheritance II [Hacker](https://www.hackerrank.com/challenges/java-inheritance-2) - [Solution](src/Object_Oriented_Programming/Java_Inheritance_II_04/Solution.java)  
+**5.** Java Abstract Class [Hacker](https://www.hackerrank.com/challenges/java-abstract-class) - [Solution](src/Object_Oriented_Programming/Java_Abstract_Class_05/Solution.java)  
+**6.** Java Interface [Hacker](https://www.hackerrank.com/challenges/java-interface/) - [Solution](src/Object_Oriented_Programming/Java_Interface_06/Solution.java)  
+**7.** Java Instanceof keyword [HackerRank](https://www.hackerrank.com/challenges/java-instanceof-keyword) - [Solution](src/Object_Oriented_Programming/Java_Instanceof_keyword_07/InstanceOFTutorial.java)  
+**8.** Java Iterator [HackerRank](https://www.hackerrank.com/challenges/java-iterator) - [Solution](src/Object_Oriented_Programming/Java_Iterator_08/Solution.java) 
