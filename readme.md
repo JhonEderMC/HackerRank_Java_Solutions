@@ -61,3 +61,7 @@ Learn programming skills
 **6.** Java Interface [Hacker](https://www.hackerrank.com/challenges/java-interface/) - [Solution](src/Object_Oriented_Programming/Java_Interface_06/Solution.java)  
 **7.** Java Instanceof keyword [HackerRank](https://www.hackerrank.com/challenges/java-instanceof-keyword) - [Solution](src/Object_Oriented_Programming/Java_Instanceof_keyword_07/InstanceOFTutorial.java)  
 **8.** Java Iterator [HackerRank](https://www.hackerrank.com/challenges/java-iterator) - [Solution](src/Object_Oriented_Programming/Java_Iterator_08/Solution.java) 
+
+#  Exception Handling
+**1.** Java Exception Handling (Try-catch) [HackerRank](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/) - [Solution](src/Exception_Handling/Java_Exception_Handling_Trycatch_01/Solution.java)  
+**2.** Java Exception Handling [HackerRank](https://www.hackerrank.com/challenges/java-exception-handling) - [Solution](src/Exception_Handling/Java_Exception_Handling_02/Solution.java)
