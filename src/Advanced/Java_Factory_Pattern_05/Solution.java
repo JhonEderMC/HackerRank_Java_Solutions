@@ -9,8 +9,8 @@ import java.io.InputStreamReader;
     PIZZA("Pizza", "Fast Food"),
     CAKE("Cake", "Dessert");
 
-    private String name;
-    private String ordered;
+    private final String name;
+    private final String ordered;
 
      TypeFoodEnum(String name, String ordered) {
         this.name = name;
@@ -66,8 +66,8 @@ class FoodFactory  {
 }
 
 public class Solution {
-    private static String STRING_FACTORY_ORDER = "The factory returned class %s";
-    private static String STRING_SOMEONE_ORDER = "Someone ordered a %s!";
+    private static final String STRING_FACTORY_ORDER = "The factory returned class %s";
+    private static final String STRING_SOMEONE_ORDER = "Someone ordered a %s!";
 
     public static void main(String[] args) {
         FoodFactory foodFactory = new FoodFactory();
